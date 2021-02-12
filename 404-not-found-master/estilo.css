@@ -1,0 +1,36 @@
+
+    .error h1 {
+    margin: 15px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    } 
+        .foto  {
+            width: 400px;
+            height: 400px;
+            margin: 150px;
+        }
+        
+        .titulo{
+            margin-top: -500px;
+            margin-left: 650px;
+        }
+        
+       
+        
+        .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: #ACB6D7;
+            color: white;
+            text-align: center;
+        }
+        
+        @media screen and (max-width: 940px) {
+            .title {
+                margin: 150px;
+            }
+        }
+    
